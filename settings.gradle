@@ -1,0 +1,1 @@
+include ':app', ':aedu_core', ':aedu_mvp', ':aedu_ui'
